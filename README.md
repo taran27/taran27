@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Taranjot Sandhu</h1>
 <p align="center">
   <b>Principal Software Engineer | Tech Leader | Innovator</b><br>
-  Tracy, CA · <a href="mailto:tacotaran@gmail.com">tacotaran@gmail.com</a> · <a href="https://taranjotsandhu.com/">taranjotsandhu.com</a>
+  Northern California (Bay Area)· <a href="mailto:tacotaran@gmail.com">tacotaran@gmail.com</a> · <a href="https://taranjotsandhu.com/">taranjotsandhu.com</a>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/taranjot-sandhu-647876137/">LinkedIn</a> |
