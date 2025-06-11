@@ -35,18 +35,41 @@ Results-driven and passionate Principal Software Engineer with a proven track re
 
 ---
 
+
 ### 📈 GitHub Stats & Achievements
+<p align="center">
+  <!-- 🔥 Combined stats for BOTH accounts -->
+  <img
+    src="https://github-readme-stats-multiuser.vercel.app/api?usernames=taran27,bridger-engineering&show_icons=true&theme=radical"
+    alt="Combined GitHub stats"
+    height="160"
+  >
+  <!-- 🔤 Optional: top languages across both accounts -->
+  <img
+    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=taran27,bridger-engineering&layout=compact&theme=radical"
+    alt="Top languages across accounts"
+    height="160"
+  >
+  <!-- 🔥 Personal streak card still points at main acct -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=taran27&theme=radical"
+    alt="GitHub Streak"
+    height="160"
+  >
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taran27&show_icons=true&theme=radical" alt="Taranjot's GitHub stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taran27&theme=radical" alt="GitHub Streak" height="160">
+  <!-- 🏆 trophies untouched -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=taran27&theme=radical&margin-w=10&margin-h=10"
+    alt="Trophies"
+    height="120"
+  >
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taran27&theme=radical&margin-w=10&margin-h=10" alt="Trophies" height="120">
-</p>
+
 <p align="center">
   <img
-    src="http://www.allgitcontributiongraph.com/justgraphit.svg?gitlab=Taran98&github=taran27"
+    src="http://www.allgitcontributiongraph.com/justgraphit.svg?github=bridger-engineering"
     alt="Combined GitHub & GitLab contribution graph"
   >
 </p>
