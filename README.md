@@ -40,13 +40,13 @@ Results-driven and passionate Principal Software Engineer with a proven track re
 <p align="center">
   <!-- 🔥 Combined stats for BOTH accounts -->
   <img
-    src="https://github-readme-stats-multiuser.vercel.app/api?usernames=taran27,bridger-engineering&show_icons=true&theme=radical"
+    src="https://github-readme-stats-multiuser.vercel.app/api?usernames=taran27&show_icons=true&theme=radical"
     alt="Combined GitHub stats"
     height="160"
   >
   <!-- 🔤 Optional: top languages across both accounts -->
   <img
-    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=taran27,bridger-engineering&layout=compact&theme=radical"
+    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=taran27&layout=compact&theme=radical"
     alt="Top languages across accounts"
     height="160"
   >
@@ -69,7 +69,7 @@ Results-driven and passionate Principal Software Engineer with a proven track re
 
 <p align="center">
   <img
-    src="http://www.allgitcontributiongraph.com/justgraphit.svg?github=bridger-engineering"
+    src="http://www.allgitcontributiongraph.com/justgraphit.svg?github=taran27"
     alt="Combined GitHub & GitLab contribution graph"
   >
 </p>
