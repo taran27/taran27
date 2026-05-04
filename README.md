@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://taranjotsandhu.com">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8B5CF6,100:1F2937&height=210&section=header&text=Taranjot%20Sandhu&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Principal%20Engineer%20%E2%80%A2%20Insurance%20%26%20Fintech%20%E2%80%A2%20Bay%20Area&descSize=16&descAlignY=64&animation=fadeIn" alt="header banner" />
+  <img src="./assets/banner.svg" alt="Taranjot Sandhu — Principal Engineer · Insurance · Fintech · Bay Area" />
 </a>
 
 <a href="https://github.com/taran27">
