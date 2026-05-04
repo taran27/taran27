@@ -32,7 +32,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Move 3D SVGs into dist
-        run: mv profile-3d-contrib dist/profile-3d-contrib
+        run: |
+          sudo chown -R "$USER" dist
+          mv profile-3d-contrib dist/profile-3d-contrib
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
