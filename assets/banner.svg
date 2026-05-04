@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="240" fill="url(#bg)"/>
+  <path d="M 24 0 L 1176 0 Q 1200 0 1200 24 L 1200 240 L 0 240 L 0 24 Q 0 0 24 0 Z" fill="url(#bg)"/>
 
   <path fill="rgba(255,255,255,0.07)">
     <animate attributeName="d" dur="9s" repeatCount="indefinite"

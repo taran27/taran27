@@ -28,20 +28,52 @@ I'm a Principal Software Engineer based in Northern California. My specialty is 
 
 Over the past decade I've led the design and delivery of **17+ end-to-end products** across web, mobile, and cloud, with consumer apps reaching **300,000+ downloads** and platforms serving **60,000+ monthly active users**. I work best at the intersection of **product, engineering, and design** — setting the technical direction, building the team, and writing the code that proves the architecture works.
 
-<table>
-<tr>
-<td>
+---
 
-📍 &nbsp; **Bay Area, CA** <br/>
-🎯 &nbsp; **Insurance & Fintech** — full lifecycle <br/>
-🚀 &nbsp; **Policy · Billing · Compliance** @ MGT Insurance <br/>
-💻 &nbsp; **TypeScript · Next.js · React Native · Node · Postgres** <br/>
-🔭 &nbsp; **Edge runtimes · AI dev tooling · Rust** <br/>
-🤝 &nbsp; **Mentoring senior / staff engineers**
+## By the numbers
 
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="180"><h2>17+</h2>End-to-end products<br/>shipped</td>
+    <td align="center" width="180"><h2>300K+</h2>Total downloads<br/>across apps</td>
+    <td align="center" width="180"><h2>60K+</h2>Monthly active<br/>users served</td>
+    <td align="center" width="180"><h2>10+</h2>Years building<br/>at scale</td>
+  </tr>
+  <tr>
+    <td align="center"><h2>5+</h2>React Native apps<br/>at <b>4.8★</b> avg</td>
+    <td align="center"><h2>15+</h2>Teams using my<br/>design systems</td>
+    <td align="center"><h2>95+</h2>Lighthouse scores,<br/>sub-2s loads</td>
+    <td align="center"><h2>1.2K+</h2>Commits shipped<br/>this year</td>
+  </tr>
 </table>
+
+---
+
+## Activity over the last year
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=ffffff&color=6d28d9&line=6d28d9&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</picture>
+
+</div>
+
+---
+
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -212,30 +244,6 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 </div>
 
-### Activity over the last year
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=ffffff&color=6d28d9&line=6d28d9&point=000000&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</picture>
-
-</div>
-
-### Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
-</picture>
-
-</div>
-
 ### Contributions in 3D
 
 <div align="center">
@@ -284,6 +292,6 @@ If you're building something hard and want a hand — [reach out](mailto:tacotar
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by.;If+you're+building+something+hard%2C+let's+talk." alt="signoff" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:8B5CF6&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,100:1F2937&section=footer&text=Crafted%20with%20%E2%9D%A4%EF%B8%8F%20by%20TJ%20Sandhu&reversal=false&fontAlign=52&fontAlignY=72&fontColor=FCD34D&fontSize=22&animation=fadeIn" width="100%" alt="footer banner" />
 
 </div>
