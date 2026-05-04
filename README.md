@@ -77,6 +77,34 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 ---
 
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taran27&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taran27&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taran27&theme=tokyonight" alt="profile details" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=taran27&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" alt="streak" />
+</picture>
+
+</div>
+
+### Contributions in 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/taran27/taran27/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+
+</div>
+
+---
+
 ## Domain expertise — full insurance & fintech lifecycle
 
 I've shipped production code at **every stage** of the policy lifecycle. This isn't theoretical — it's what I do every day.
@@ -218,39 +246,6 @@ Hands-on, production experience across the industry-standard platforms that powe
 | **Drivepoints**    | Safety-first navigation app with custom routing intelligence       | React Native · Mapbox SDK · Firebase             |
 | **Connect**        | Field-agent CRM (Salesforce-equivalent) for performance & tracking | React Native · Node.js · MongoDB · REST          |
 | **Product Studio** | Internal analytics suite for risk modeling & innovation            | Next.js · TypeScript · Power BI · GCP            |
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=450&cache_seconds=86400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub stats" height="180" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=taran27&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" alt="streak" height="180" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920&cache_seconds=86400" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=default&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920&cache_seconds=86400" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920" alt="top languages" />
-</picture>
-
-</div>
-
-### Contributions in 3D
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/taran27/taran27/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
-
-</div>
 
 ---
 
