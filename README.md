@@ -1,180 +1,297 @@
-<h1 align="center">Hi, I'm Taranjot Sandhu</h1>
-<p align="center">
-  <b>Principal Software Engineer | Tech Leader | Innovator</b><br>
-  Northern California (Bay Area)
-</p>
-<p align="center">
-   <a href="mailto:tacotaran@gmail.com">tacotaran@gmail.com</a> · <a href="https://taranjotsandhu.com/">taranjotsandhu.com</a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/taranjot-sandhu-647876137/">LinkedIn</a> |
-  <a href="https://bold.pro/my/taranjot-sandhu/672r">Portfolio</a>
-</p>
+<div align="center">
 
----
+<a href="https://taranjotsandhu.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1F2937&height=210&section=header&text=Taranjot%20Sandhu&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Principal%20Engineer%20%E2%80%A2%20Insurance%20%26%20Fintech%20%E2%80%A2%20Bay%20Area&descSize=16&descAlignY=64&animation=fadeIn" alt="header banner" />
+</a>
 
-### 🚀 Professional Summary
+<a href="https://github.com/taran27">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=End-to-end+Insurance+%26+Fintech+Engineer;Quote+%E2%86%92+Bind+%E2%86%92+Policy+%E2%86%92+Billing+%E2%86%92+Claims+%E2%86%92+Renewal;Shipping+underwriting+%26+policy-admin+platforms+at+scale;Products+used+by+60%2C000%2B+people+monthly;React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Cloud-native" alt="role typing" />
+</a>
 
-Results-driven **Principal Software Engineer** with a proven track record of delivering **17+ end-to-end software solutions** and enterprise-grade products across web, mobile, and cloud platforms. Strategic leader recognized for building high-performing engineering teams, driving product innovation, and consistently exceeding project goals.
-
-✨ **Core Strengths:**
-
-- 🔧 Expert in modern full-stack development, scalable architecture, and cross-functional team collaboration
-- 📈 Launched products serving **60,000+ monthly active users** and **300,000+ total downloads**
-- 👥 Hands-on leader, mentor, and advocate for continuous improvement and quality
-- 🎯 Specialized in React Native, Next.js, and cloud-native solutions
-
----
-
-### 🏆 Featured Projects
-
-🚀 **Bridger Mobile** - Intuitive insurance mobile app (Expo React Native) for engaging user experiences and streamlined services  
-_Technologies: React Native, Expo SDK, TypeScript, Redux_
-
-📊 **Bridger Nexus** - Analytics platform (Next.js + Power BI) delivering real-time business intelligence and visual insights  
-_Technologies: Next.js, Power BI, PostgreSQL, Azure_
-
-🗺️ **Drivepoints Mobile App** - Advanced React Native navigation app with Mapbox SDK for safety-focused, real-time guidance  
-_Technologies: React Native, Mapbox SDK, GPS APIs, Firebase_
-
-🔗 **Connect** - Salesforce-equivalent mobile solution for agent tracking & performance management  
-_Technologies: React Native, Node.js, MongoDB, REST APIs_
-
-🎨 **Product Studio** - Full-stack analytics suite (Next.js + Power BI) empowering risk mitigation and internal innovation  
-_Technologies: Next.js, TypeScript, Power BI, Cloud Infrastructure_
-
----
-
-### 📊 Development Stats & UI Excellence
-
-<p align="center">
-  <a href="https://github.com/taran27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taran27&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
-  </a>
+<p>
+  <a href="https://taranjotsandhu.com"><img src="https://img.shields.io/badge/Website-taranjotsandhu.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="website" /></a>
+  <a href="https://linkedin.com/in/taranjot-sandhu-647876137/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://bold.pro/my/taranjot-sandhu/672r"><img src="https://img.shields.io/badge/Portfolio-View_Work-FF6B6B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:tacotaran@gmail.com"><img src="https://img.shields.io/badge/Email-tacotaran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/taran27">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=c,makefile,cmake,shell&custom_title=Primary%20Technologies" alt="Top Languages" height="170">
-  </a>
-  <a href="https://github.com/taran27">
-    <img src="https://github-profile-trophy.vercel.app/?username=taran27&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" height="170">
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=taran27&style=flat-square&color=8b5cf6&label=Profile+views" alt="profile views" />
+<a href="https://github.com/taran27?tab=followers"><img src="https://img.shields.io/github/followers/taran27?style=flat-square&color=8b5cf6&label=Followers" alt="followers" /></a>
 
-#### 🎨 UI/UX & Frontend Excellence
-
-🏅 **Mobile Excellence:** Designed and developed **5+ award-winning React Native applications** with **4.8+ App Store ratings**
-
-🏗️ **Design Systems:** Architected scalable component libraries serving **15+ development teams** across multiple products
-
-📈 **User Experience:** Led UX research and A/B testing initiatives resulting in **35% improvement** in user engagement
-
-📱 **Responsive Design:** Expert in creating pixel-perfect, accessible interfaces across web, mobile, and tablet platforms
-
-⚡ **Performance:** Optimized frontend applications achieving **95+ Lighthouse scores** and **sub-2s load times**
-
-🎯 **Innovation:** Pioneered modern development practices including micro-frontend architecture, atomic design, and component-driven development
+</div>
 
 ---
 
-### 🛠️ Technical Arsenal
+## About
 
-<p align="center">
+I'm a Principal Software Engineer based in Northern California. My specialty is **building Insurance & Fintech platforms end-to-end** — from line-of-business modeling and underwriting workflows down to payment rails, compliance checks, and the mobile/web surfaces customers actually touch.
 
-|     **Category**      | **Technologies**                                              |
-| :-------------------: | :------------------------------------------------------------ |
-|   💻 **Languages**    | JavaScript • TypeScript • Python • Java • Rust                |
-|     📱 **Mobile**     | React Native • Expo SDK • Moti • Framer Motion • iOS/Android  |
-|    🌐 **Frontend**    | Next.js • React • HTML5 • CSS3 • Tailwind • Styled Components |
-|    ⚙️ **Backend**     | Node.js • Express • FastAPI • RESTful APIs • GraphQL          |
-| ☁️ **Cloud & DevOps** | GCP • AWS • Kubernetes • Docker • CI/CD • Terraform           |
-|   🗄️ **Databases**    | PostgreSQL • MongoDB • MySQL • Prisma ORM • Redis             |
-| 📊 **Analytics & BI** | Power BI • Tableau • Data Warehousing • ETL Pipelines         |
-|  🔧 **Specialized**   | Mapbox SDK • BullMQ • Twilio • OpenAI SDK • Stripe • Auth0    |
+Over the past decade I've led the design and delivery of **17+ end-to-end products** across web, mobile, and cloud, with consumer apps reaching **300,000+ downloads** and platforms serving **60,000+ monthly active users**. I work best at the intersection of **product, engineering, and design** — setting the technical direction, building the team, and writing the code that proves the architecture works.
 
-</p>
+<table>
+<tr>
+<td>
 
----
+📍 &nbsp; **Bay Area, CA** <br/>
+🎯 &nbsp; **Insurance & Fintech** — full lifecycle <br/>
+🚀 &nbsp; **Policy · Billing · Compliance** @ MGT Insurance <br/>
+💻 &nbsp; **TypeScript · Next.js · React Native · Node · Postgres** <br/>
+🔭 &nbsp; **Edge runtimes · AI dev tooling · Rust** <br/>
+🤝 &nbsp; **Mentoring senior / staff engineers**
 
-### 👔 Leadership & Impact
-
-🎯 **Team Leadership**  
-Built and mentored **high-performing engineering teams** at Bridger Insurance, Credit Karma, and Persistent Systems
-
-🚀 **Process Innovation**  
-Champion of agile methodologies, customer-centric design, and quality-driven development practices
-
-🤝 **Community Engagement**  
-Active volunteer at **Tri-Valley Sikh Center**: digital literacy workshops, tech support, and outreach programs
-
-📚 **Knowledge Sharing**  
-Regular speaker at tech meetups, mentor for junior developers, and contributor to open-source projects
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎓 Professional Certifications & Education
+## Domain expertise — full insurance & fintech lifecycle
 
-<p align="center">
+I've shipped production code at **every stage** of the policy lifecycle. This isn't theoretical — it's what I do every day.
 
-🏆 **Microsoft Power BI Data Analyst**<br>
-📱 **Certified React Native Developer**<br>
-🌐 **Full-Stack Web Development Certification**<br>
-☁️ **Google Cloud Platform Fundamentals**<br>
-⚙️ **Kubernetes for Developers** (Linux Foundation)<br>
-👥 **Technical Leadership & Management Training**<br>
-🔐 **AWS Solutions Architect** (Associate Level)<br>
-📊 **Advanced Data Analytics & Machine Learning**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</p>
+#### 🧾 Quote & Bind
+
+- Rating engines & line-of-business config
+- Eligibility & risk-appetite rules
+- Quote-to-bind conversion flows
+- Document generation (declarations, certs)
+
+</td>
+<td width="33%" valign="top">
+
+#### 📑 Policy & Endorsements
+
+- Policy administration systems
+- Mid-Term Adjustments (MTAs)
+- Reinstatement & cancellation flows
+- Coverage frame modeling
+
+</td>
+<td width="33%" valign="top">
+
+#### 💳 Billing & Payments
+
+- Invoicing & installment plans
+- Backdated adjustments & true-ups
+- Payment provider integrations
+- ACH, card, wallet rails
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### ⚖️ Compliance & Audit
+
+- Pre-flight & danger rules
+- Stamp & filing automation
+- Regulatory reporting
+- Audit trails & event sourcing
+
+</td>
+<td width="33%" valign="top">
+
+#### 🛠️ Claims & Servicing
+
+- FNOL intake flows
+- Claims triage & tracking
+- Customer servicing portals
+- Agent-facing dashboards
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔄 Renewals & Analytics
+
+- Auto-renewal pipelines
+- Retention & churn modeling
+- Real-time BI & reporting
+- Underwriting performance metrics
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 Languages
+## Platforms I'm expert in
 
-**English** (Native) • **Hindi** (Native) • **Punjabi** (Native)
+Hands-on, production experience across the industry-standard platforms that power modern insurance & fintech.
 
----
+<div align="center">
 
-### 💬 Let's Connect & Collaborate
+#### Insurance core / policy administration
 
-<p align="center">
-  <a href="https://taranjotsandhu.com/">
-    <img src="https://img.shields.io/badge/🌐_Website-taranjotsandhu.com-blue?style=for-the-badge&logo=safari&logoColor=white" alt="Website">
-  </a>
-  <a href="https://linkedin.com/in/taranjot-sandhu-647876137/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://bold.pro/my/taranjot-sandhu/672r">
-    <img src="https://img.shields.io/badge/📄_Portfolio-View_Work-FF6B6B?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:tacotaran@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-tacotaran@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+![Socotra](https://img.shields.io/badge/Socotra-0F1B2D?style=for-the-badge&logoColor=white)
+![Duck Creek Go](https://img.shields.io/badge/Duck_Creek_Go-FFCC00?style=for-the-badge&logoColor=000)
+![Guidewire](https://img.shields.io/badge/Guidewire-0066CC?style=for-the-badge&logoColor=white)
+![InformINS](https://img.shields.io/badge/InformINS_e--Volve-1B365D?style=for-the-badge&logoColor=white)
+![Insurity](https://img.shields.io/badge/Insurity-E31837?style=for-the-badge&logoColor=white)
 
----
+#### Billing, payments & financing
 
-<!-- <p align="center">
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Ascend](https://img.shields.io/badge/Ascend-FF6B35?style=for-the-badge&logoColor=white)
+![One Inc](https://img.shields.io/badge/One_Inc-0072CE?style=for-the-badge&logoColor=white)
+![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logoColor=white)
 
-### 💡 **Open to opportunities in:**
+#### Identity, comms & data
 
-**Senior/Principal Engineering Roles** • **Technical Leadership** • **Mobile Development** • **Full-Stack Architecture**
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![DocuSign](https://img.shields.io/badge/DocuSign-FFCC22?style=for-the-badge&logo=docusign&logoColor=000)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-</p> -->
+</div>
 
 ---
 
-<p align="center">
+## Tech stack
 
-### ✨ _"The only way to do great work is to love what you do."_ — Steve Jobs
+<div align="center">
 
-## 🚀 **Ready to build something extraordinary together!** 🚀
+#### Languages & runtimes
 
-<!-- <img src="https://komarev.com/ghpvc/?username=taran27&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"> -->
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,go,nodejs,bash" alt="languages" />
+
+#### Frontend & mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind,styledcomponents,html,css" alt="frontend" />
+
+#### Backend & data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postgres,mongodb,mysql,redis,prisma" alt="backend" />
+
+#### Cloud, infra & tooling
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,vercel,nginx" alt="cloud" />
+
+#### Specialized
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-_Thank you for visiting! Feel free to explore my repositories and don't hesitate to reach out for collaborations._ 💫
+## Selected work
 
-</p>
+| Project            | What it is                                                         | Stack                                            |
+| :----------------- | :----------------------------------------------------------------- | :----------------------------------------------- |
+| **Bridger Mobile** | Insurance mobile app — quoting, policy management, claims          | React Native · Expo · TypeScript · Redux Toolkit |
+| **Bridger Nexus**  | Real-time BI platform for underwriting & ops                       | Next.js · Power BI · PostgreSQL · Azure          |
+| **Drivepoints**    | Safety-first navigation app with custom routing intelligence       | React Native · Mapbox SDK · Firebase             |
+| **Connect**        | Field-agent CRM (Salesforce-equivalent) for performance & tracking | React Native · Node.js · MongoDB · REST          |
+| **Product Studio** | Internal analytics suite for risk modeling & innovation            | Next.js · TypeScript · Power BI · GCP            |
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=450&cache_seconds=86400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=taran27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub stats" height="180" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=taran27&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=taran27&theme=tokyonight&hide_border=true" alt="streak" height="180" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=default&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920&cache_seconds=86400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taran27&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=c,makefile,cmake,shell,dockerfile&card_width=920" alt="top languages" />
+</picture>
+
+</div>
+
+### Activity over the last year
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=ffffff&color=6d28d9&line=6d28d9&point=000000&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taran27&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</picture>
+
+</div>
+
+### Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/taran27/taran27/output/github-snake.svg" />
+</picture>
+
+</div>
+
+### Contributions in 3D
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/taran27/taran27/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+
+</div>
+
+---
+
+## Leadership & impact
+
+- **Engineering teams** — built and led teams at Bridger Insurance, Credit Karma, and Persistent Systems, growing engineers from mid-level into senior and staff positions; currently shipping at MGT Insurance.
+- **Product reach** — products serving **60,000+ monthly active users** and **300,000+ total downloads**.
+- **Mobile excellence** — shipped **5+ React Native apps** averaging **4.8★** App Store ratings.
+- **Design systems** — architected component libraries adopted by **15+ teams** across multiple products.
+- **Performance** — frontend work consistently lands at **95+ Lighthouse scores** with **sub-2s** load times.
+- **Process** — champion of trunk-based development, customer-led iteration, and quality-driven engineering culture.
+- **Community** — volunteer at Tri-Valley Sikh Center on digital-literacy and outreach programs.
+
+---
+
+<details>
+<summary><b>Certifications & languages spoken</b></summary>
+<br>
+
+`Microsoft Power BI Data Analyst` &nbsp;·&nbsp; `Certified React Native Developer` &nbsp;·&nbsp; `Full-Stack Web Development` &nbsp;·&nbsp; `Google Cloud Platform Fundamentals` &nbsp;·&nbsp; `Kubernetes for Developers (Linux Foundation)` &nbsp;·&nbsp; `AWS Solutions Architect — Associate` &nbsp;·&nbsp; `Technical Leadership & Management` &nbsp;·&nbsp; `Advanced Data Analytics & Machine Learning`
+
+**Languages spoken:** English · Hindi · Punjabi (all native)
+
+</details>
+
+---
+
+<!--
+### Currently open to
+
+**Principal / Staff Engineering** &nbsp;·&nbsp; **Engineering Leadership** &nbsp;·&nbsp; **Mobile & Full-Stack Architecture** &nbsp;·&nbsp; **Technical Advisory**
+
+If you're building something hard and want a hand — [reach out](mailto:tacotaran@gmail.com).
+-->
+
+<div align="center">
+
+<a href="https://github.com/taran27">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Thanks+for+stopping+by.;If+you're+building+something+hard%2C+let's+talk." alt="signoff" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:8B5CF6&height=100&section=footer" alt="footer" />
+
+</div>
