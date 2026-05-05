@@ -33,7 +33,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:circle-user-round.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/about.svg?v=3" align="absmiddle" alt="About" />
+## <img src="./assets/headings/about-full.svg" alt="About" />
 
 I'm a Principal Software Engineer based in Northern California. My specialty is **building Insurance & Fintech platforms end-to-end** — from line-of-business modeling and underwriting workflows down to payment rails, compliance checks, and the mobile/web surfaces customers actually touch.
 
@@ -41,7 +41,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ---
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/numbers.svg?v=3" align="absmiddle" alt="By the numbers" />
+## <img src="./assets/headings/numbers-full.svg" alt="By the numbers" />
 
 <table align="center">
   <tr>
@@ -60,7 +60,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ---
 
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/activity.svg?v=3" align="absmiddle" alt="Activity over the last year" />
+## <img src="./assets/headings/activity-full.svg" alt="Activity over the last year" />
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ---
 
-## <img src="https://api.iconify.design/lucide:flame.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/snake.svg?v=3" align="absmiddle" alt="Contribution snake" />
+## <img src="./assets/headings/snake-full.svg" alt="Contribution snake" />
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ---
 
-## <img src="https://api.iconify.design/lucide:zap.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/stats.svg?v=3" align="absmiddle" alt="GitHub stats" />
+## <img src="./assets/headings/stats-full.svg" alt="GitHub stats" />
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 </div>
 
-### <img src="https://api.iconify.design/lucide:box.svg?color=%238B5CF6&width=24&height=24" align="absmiddle" alt="" /><img src="./assets/headings/3d.svg?v=3" align="absmiddle" alt="Contributions in 3D" />
+### <img src="./assets/headings/3d-full.svg" alt="Contributions in 3D" />
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ---
 
-## <img src="https://api.iconify.design/lucide:target.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/domain.svg?v=3" align="absmiddle" alt="Domain expertise — full insurance & fintech lifecycle" />
+## <img src="./assets/headings/domain-full.svg" alt="Domain expertise — full insurance & fintech lifecycle" />
 
 I've shipped production code at **every stage** of the policy lifecycle. This isn't theoretical — it's what I do every day.
 
@@ -189,7 +189,7 @@ I've shipped production code at **every stage** of the policy lifecycle. This is
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/platforms.svg?v=3" align="absmiddle" alt="Platforms I'm expert in" />
+## <img src="./assets/headings/platforms-full.svg" alt="Platforms I'm expert in" />
 
 Hands-on, production experience across the industry-standard platforms that power modern insurance & fintech.
 
@@ -222,7 +222,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## <img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/tech.svg?v=3" align="absmiddle" alt="Tech stack" />
+## <img src="./assets/headings/tech-full.svg" alt="Tech stack" />
 
 <div align="center">
 
@@ -248,7 +248,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/work.svg?v=3" align="absmiddle" alt="Selected work" />
+## <img src="./assets/headings/work-full.svg" alt="Selected work" />
 
 | Project            | What it is                                                         | Stack                                            |
 | :----------------- | :----------------------------------------------------------------- | :----------------------------------------------- |
@@ -260,7 +260,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/leadership.svg?v=3" align="absmiddle" alt="Leadership & impact" />
+## <img src="./assets/headings/leadership-full.svg" alt="Leadership & impact" />
 
 - **Engineering teams** — built and led teams at Bridger Insurance, Credit Karma, and Persistent Systems, growing engineers from mid-level into senior and staff positions; currently shipping at MGT Insurance.
 - **Product reach** — products serving **60,000+ monthly active users** and **300,000+ total downloads**.
