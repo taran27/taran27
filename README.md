@@ -8,11 +8,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=End-to-end+Insurance+%26+Fintech+Engineer;Quote+%E2%86%92+Bind+%E2%86%92+Policy+%E2%86%92+Billing+%E2%86%92+Claims+%E2%86%92+Renewal;Shipping+underwriting+%26+policy-admin+platforms+at+scale;Products+used+by+60%2C000%2B+people+monthly;React+Native+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Cloud-native" alt="role typing" />
 </a>
 
-<p>
-  <a href="https://taranjotsandhu.com"><img src="https://img.shields.io/badge/Website-taranjotsandhu.com-0A0A0A?style=for-the-badge&logo=safari&logoColor=white" alt="website" /></a>
-  <a href="https://linkedin.com/in/taranjot-sandhu-647876137/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://bold.pro/my/taranjot-sandhu/672r"><img src="https://img.shields.io/badge/Portfolio-View_Work-FF6B6B?style=for-the-badge&logo=readdotcv&logoColor=white" alt="portfolio" /></a>
-  <a href="mailto:tacotaran@gmail.com"><img src="https://img.shields.io/badge/Email-tacotaran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<p align="center">
+  <a href="https://taranjotsandhu.com">
+    <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=safari&logoColor=white&labelColor=1F2937" alt="website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/taranjot-sandhu-647876137/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bold.pro/my/taranjot-sandhu/672r">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=1F2937" alt="portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tacotaran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" alt="email" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=taran27&style=flat-square&color=8b5cf6&label=Profile+views" alt="profile views" />
@@ -22,15 +33,15 @@
 
 ---
 
-## About
+## <img src="https://api.iconify.design/lucide:circle-user-round.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/about.svg?v=3" align="absmiddle" alt="About" />
 
 I'm a Principal Software Engineer based in Northern California. My specialty is **building Insurance & Fintech platforms end-to-end** — from line-of-business modeling and underwriting workflows down to payment rails, compliance checks, and the mobile/web surfaces customers actually touch.
 
-Over the past decade I've led the design and delivery of **17+ end-to-end products** across web, mobile, and cloud, with consumer apps reaching **300,000+ downloads** and platforms serving **60,000+ monthly active users**. I work best at the intersection of **product, engineering, and design** — setting the technical direction, building the team, and writing the code that proves the architecture works.
+Over the past years I've led the design and delivery of **17+ end-to-end products** across web, mobile, and cloud, with consumer apps reaching **300,000+ downloads** and platforms serving **60,000+ monthly active users**. I work best at the intersection of **product, engineering, and design** — setting the technical direction, building the team, and writing the code that proves the architecture works.
 
 ---
 
-## By the numbers
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/numbers.svg?v=3" align="absmiddle" alt="By the numbers" />
 
 <table align="center">
   <tr>
@@ -49,7 +60,7 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 ---
 
-## Activity over the last year
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/activity.svg?v=3" align="absmiddle" alt="Activity over the last year" />
 
 <div align="center">
 
@@ -63,7 +74,7 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 ---
 
-## Contribution snake
+## <img src="https://api.iconify.design/lucide:flame.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/snake.svg?v=3" align="absmiddle" alt="Contribution snake" />
 
 <div align="center">
 
@@ -77,7 +88,7 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 ---
 
-## GitHub stats
+## <img src="https://api.iconify.design/lucide:zap.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/stats.svg?v=3" align="absmiddle" alt="GitHub stats" />
 
 <div align="center">
 
@@ -95,7 +106,7 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 </div>
 
-### Contributions in 3D
+### <img src="https://api.iconify.design/lucide:box.svg?color=%238B5CF6&width=24&height=24" align="absmiddle" alt="" /><img src="./assets/headings/3d.svg?v=3" align="absmiddle" alt="Contributions in 3D" />
 
 <div align="center">
 
@@ -105,7 +116,7 @@ Over the past decade I've led the design and delivery of **17+ end-to-end produc
 
 ---
 
-## Domain expertise — full insurance & fintech lifecycle
+## <img src="https://api.iconify.design/lucide:target.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/domain.svg?v=3" align="absmiddle" alt="Domain expertise — full insurance & fintech lifecycle" />
 
 I've shipped production code at **every stage** of the policy lifecycle. This isn't theoretical — it's what I do every day.
 
@@ -178,7 +189,7 @@ I've shipped production code at **every stage** of the policy lifecycle. This is
 
 ---
 
-## Platforms I'm expert in
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/platforms.svg?v=3" align="absmiddle" alt="Platforms I'm expert in" />
 
 Hands-on, production experience across the industry-standard platforms that power modern insurance & fintech.
 
@@ -211,7 +222,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## Tech stack
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/tech.svg?v=3" align="absmiddle" alt="Tech stack" />
 
 <div align="center">
 
@@ -237,7 +248,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## Selected work
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/work.svg?v=3" align="absmiddle" alt="Selected work" />
 
 | Project            | What it is                                                         | Stack                                            |
 | :----------------- | :----------------------------------------------------------------- | :----------------------------------------------- |
@@ -249,7 +260,7 @@ Hands-on, production experience across the industry-standard platforms that powe
 
 ---
 
-## Leadership & impact
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238B5CF6&width=28&height=28" align="absmiddle" alt="" /><img src="./assets/headings/leadership.svg?v=3" align="absmiddle" alt="Leadership & impact" />
 
 - **Engineering teams** — built and led teams at Bridger Insurance, Credit Karma, and Persistent Systems, growing engineers from mid-level into senior and staff positions; currently shipping at MGT Insurance.
 - **Product reach** — products serving **60,000+ monthly active users** and **300,000+ total downloads**.
