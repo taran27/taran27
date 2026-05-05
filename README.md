@@ -1,7 +1,11 @@
 <div align="center">
 
 <a href="https://taranjotsandhu.com">
-  <img src="./assets/banner.svg" alt="Taranjot Sandhu — Principal Engineer · Insurance · Fintech · Bay Area" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img src="./assets/banner-dark.svg" alt="Taranjot Sandhu — Principal Engineer · Insurance · Fintech · Bay Area" />
+  </picture>
 </a>
 
 <a href="https://github.com/taran27">
@@ -43,20 +47,15 @@ Over the past years I've led the design and delivery of **17+ end-to-end product
 
 ## <img src="./assets/headings/numbers-full.svg" alt="By the numbers" />
 
-<table align="center">
-  <tr>
-    <td align="center" width="180"><h2>17+</h2>End-to-end products<br/>shipped</td>
-    <td align="center" width="180"><h2>300K+</h2>Total downloads<br/>across apps</td>
-    <td align="center" width="180"><h2>60K+</h2>Monthly active<br/>users served</td>
-    <td align="center" width="180"><h2>10+</h2>Years building<br/>at scale</td>
-  </tr>
-  <tr>
-    <td align="center"><h2>5+</h2>React Native apps<br/>at <b>4.8★</b> avg</td>
-    <td align="center"><h2>15+</h2>Teams using my<br/>design systems</td>
-    <td align="center"><h2>95+</h2>Lighthouse scores,<br/>sub-2s loads</td>
-    <td align="center"><h2>1.2K+</h2>Commits shipped<br/>this year</td>
-  </tr>
-</table>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/by-numbers-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/by-numbers-light.svg?v=3" />
+  <img src="./assets/by-numbers-dark.svg?v=3" alt="17+ products · 300K+ downloads · 60K+ monthly users · 10+ years · 5+ apps · 15+ teams · 95+ Lighthouse · 1.2K+ commits" />
+</picture>
+
+</div>
 
 ---
 
